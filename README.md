@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Shezan Qureshi</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm Shezan Qureshi, a Data Science enthusiast with a passion for leveraging data to drive insights and solve complex problems. I am constantly expanding my skills and knowledge in the field of data science, and I am excited to share my journey with you through my project portfolio.</h3>
 
@@ -23,8 +22,6 @@
 ## GitHub Analytics
 [<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shezan21&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shezan21&layout=compact&langs_count=8&theme=dark&hide_border=true"/>](https://github.com/shezan21)
 
-## GitHub Streaks
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shezan21&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ## Contact
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shezanqureshi808@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shezan-qureshi-883948169) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shezan_quraish/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ShezanQureshi3)
